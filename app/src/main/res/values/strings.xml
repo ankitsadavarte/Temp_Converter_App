@@ -1,0 +1,10 @@
+<resources>
+        <string name="app_name">TempConverter</string>
+        <string name="action_settings">Settings</string>
+        <!--  Strings used  -->
+        <string name="fahrenheit_to_celcius">Celcius ⇆ Fahrenheit</string>
+        <string name="to_celcius">To °Celcius</string>
+        <string name="enter_temp_in_f">Enter Temp in °F</string>
+        <string name="entertemp_in_c">EnterTemp in °C</string>
+        <string name="to_fahrenheit">To °Fahrenheit</string>
+</resources>
